@@ -17,6 +17,7 @@ class ViewController2: UIViewController {
         print("peter05")
         print("peter06")
         print("peter07")
+        print("peter08")
     }
     
 
