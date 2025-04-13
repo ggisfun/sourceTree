@@ -15,6 +15,7 @@ class ViewController2: UIViewController {
         // Do any additional setup after loading the view.
         print("peter04")
         print("peter05")
+        print("peter06")
     }
     
 
