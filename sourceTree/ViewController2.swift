@@ -18,6 +18,8 @@ class ViewController2: UIViewController {
         print("peter06")
         print("peter07")
         print("peter08")
+        print("peter09")
+        print("peter10")
     }
     
 
